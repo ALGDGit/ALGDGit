@@ -22,7 +22,7 @@
 - **[real-estate-desirability](https://github.com/ALGDGit/real-estate-desirability)** — Proyecto en Python para análisis y puntuación de deseabilidad inmobiliaria basada en factores geográficos y datos de entorno.
 - **[Image-Anonymizer](https://github.com/ALGDGit/Image-Anonymizer)** — Eliminación de metadatos.
 - **[Benchmark-List](https://github.com/ALGDGit/Benchmark-List)** — Demo de alta performance con Symfony + Varnish, invalidación por tags y paginación inteligente.
-- **[TheIACouncil](https://github.com/ALGDGit/TheIACouncil)** — Aplicación WPF / .NET 8 para gestión e interacción con modelos de lenguaje locales (Ollama) y cloud.
+- **[TheIACouncil](https://github.com/ALGDGit/the-ai-council)** — Aplicación WPF / .NET 8 para gestión e interacción con modelos de lenguaje locales (Ollama) y cloud.
 ---
 
 📬 **Contacto**  
